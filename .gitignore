@@ -32,3 +32,4 @@
 *.app
 /.vs/fms_bspline/v17
 /x64/Debug
+/.vs
